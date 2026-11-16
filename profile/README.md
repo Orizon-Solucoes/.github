@@ -17,7 +17,7 @@ Desenvolvimento de soluções digitais, suporte técnico e infraestrutura de TI 
 
 ## Projetos
 
-- [Chromebook Manager](https://github.com/Orizon-Solucoes/chromebook-manager) — Gestão de equipamentos de TI.
+- [Seice Manager](https://github.com/Orizon-Solucoes/seice-manager) — Gestão de equipamentos de TI.
 - [Gerador de Código de Barras](https://github.com/Orizon-Solucoes/gerador-codigo-barras) — Geração e impressão de etiquetas.
 - [Gestão Oliveira](https://github.com/Orizon-Solucoes/gestao-oliveira) — Sistema de gestão comercial.
 - [Website Orizon](https://github.com/Orizon-Solucoes/orizon-website) — Website institucional.
